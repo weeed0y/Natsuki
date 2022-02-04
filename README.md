@@ -6,7 +6,7 @@
 
 ## ⚡ It is no longer based on this source code. The completely rewritten bot available now on telegram
 
-- ![GitHub repo size](https://img.shields.io/github/repo-size/Sadew451/NK?label=Repo%20Size)
+- ![GitHub repo size](https://img.shields.io/github/repo-size/weeed0y/NK?label=Repo%20Size)
 
 <p align="center">
     <a href="https://python.org">
@@ -27,7 +27,7 @@
 
 ![GitHub](https://img.shields.io/github/license/Sadew451/Natsuki)
 
-- https://sadew451.github.io/Natsuki.Web/
+- https://weeed0y.github.io/Natsuki.Web/
 
 <img align="right" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/155/open-book_1f4d6.png">
 
@@ -80,7 +80,7 @@
 ### Self-hosting (For Devs) 😎
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/Sadew451/Natsuki
+$ git clone https://github.com/weeed0y/Natsuki
 $ cd Natsuki
 # Upgrade sources
 $ bash deploy.sh
@@ -102,7 +102,7 @@ $ python3 -m Natsuki
 ```
 > ## Supporters
 
-![Contributors](https://contrib.rocks/image?repo=Sadew451/Natsuki)
+![Contributors](https://contrib.rocks/image?repo=weeedb0y/Natsuki)
 
 ## Special Credits
 - [Inukaasith](https://gitlab.com/inukaasith)
@@ -119,5 +119,5 @@ Anything missing kindly let us know at [Natsuki Support](https://t.me/NatsukiSup
 
 ## Devs & Contributors 
 
-#### • SADEW JAYASEKARA    »»  <a href="https://github.com/SADEW451" alt="SADEW451"> <img src="https://img.shields.io/badge/SADEW451-90302f?logo=github" /></a> (OWNER)
+#### • k k    »»  <a href="https://github.com/weeedb0yalt="weeedb0y"> <img src="https://img.shields.io/badge/weeedb0y-90302f?logo=github" /></a> (OWNER)
 #### • DAMANTHA JASINGHA  »»  <a href="https://github.com/DAMANTHA126" alt="DAMANTHAJASINGHA"> <img src="https://img.shields.io/badge/DAMANTHA126-82CAFA?logo=github" /></a> (DEV)
